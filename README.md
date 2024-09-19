@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ahmad Nazzal
 
-I'm a passionate Computer Engineering student with experience in backend development, data coordination, and frontend technologies. I enjoy building robust applications and solving challenging problems through programming competitions.
+I'm a passionate Computer Engineering student with experience in backend development and frontend technologies. I enjoy building robust applications and solving challenging problems through programming competitions.
 
 👨‍💻 **Projects**:  
 - **CommuniCraft**: Backend platform for managing crafting projects using Node.js, Express.js, JWT for authentication, and MySQL with Sequelize for ORM.  
